@@ -5,7 +5,7 @@ This project showcases my background, skills, projects, and contact information 
 
 ## 🚀 About Me
 
-I'm **Yash Yadav**, a Computer Science student at **Shri Ramswaroop Memorial University**, passionate about web development, desktop applications, and AI-based solutions. My projects include book organizing tools, BMI calculators, and crop identification using YOLO.
+I'm **Yash Yadav**, a Computer Science student, passionate about web development, desktop applications, and AI-based solutions. My projects include book organizing tools, BMI calculators, and crop identification using YOLO.
 
 ---
 
@@ -13,8 +13,8 @@ I'm **Yash Yadav**, a Computer Science student at **Shri Ramswaroop Memorial Uni
 
 - **Languages:** C/C++, JavaScript, SQL
 - **Frontend:** HTML, CSS, React.js
-- **Backend:** Node.js, Firebase
-- **App Development:** Flutter
+- **Backend:** Node.js
+- **App Development:** QtCreator
 - **Tools:** Qt (for desktop apps), Git & GitHub, VS Code
 - **AI & Image Processing:** OpenCV, YOLO
 
